@@ -1,0 +1,2 @@
+(test
+ (name setup_ocaml_project_no_dune))

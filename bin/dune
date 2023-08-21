@@ -1,0 +1,6 @@
+(copy_files# sub/*) 
+
+(executable
+ (public_name setup_ocaml_project_no_dune)
+ (name main)
+ (libraries setup_ocaml_project_no_dune base))
