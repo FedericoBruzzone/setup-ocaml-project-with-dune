@@ -72,7 +72,7 @@ The project structure is organized as follows:
 
 2. **Compile and Run:**
 
-    - To compile your code and create an executable with `ocamlbuild`, run:
+    - To compile your code and create an executable with `dune`, run:
         ```
         $ dune build 
         $ dune exec setup_ocaml_project_no_dune 
